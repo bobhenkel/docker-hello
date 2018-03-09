@@ -7,5 +7,5 @@ build:
   
   integrations:
   hub:
-    - integrationName: quay-integration    #replace with your integration name
+    - integrationName: quay    #replace with your integration name
       type: quayLogin
